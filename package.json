@@ -1,0 +1,17 @@
+{
+  "name": "md-bot-pairing-site",
+  "version": "1.0.0",
+  "description": "WhatsApp MD Bot Pairing Site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "express": "^4.21.2",
+    "pino": "^9.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
